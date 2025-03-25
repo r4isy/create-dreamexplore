@@ -19,6 +19,24 @@
                 "curseforge": "https://curseforge.com/minecraft/modpacks/dream-and-explore/"
             }
         }
+    },
+    {
+      "id": "1.0.4",
+      "releasedAt": 1742428800,
+      "promotions": {
+            "downloads": {
+                "curseforge": "https://curseforge.com/minecraft/modpacks/dream-and-explore/"
+            }
+        }
+    },
+    {
+      "id": "1.0.5",
+      "releasedAt": 1742428800,
+      "promotions": {
+            "downloads": {
+                "curseforge": "https://curseforge.com/minecraft/modpacks/dream-and-explore/"
+            }
+        }
     }
   ]
 }
